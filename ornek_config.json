@@ -1,0 +1,13 @@
+{
+  "path": "/var/www/html/test/data",
+  "days": 7,
+  "time_field": "mtime",
+  "exclude": [
+    "deneme1.txt",
+    "deneme2.txt",
+    "Test1",
+    "Test2",
+    "*.log",
+    "yedek_*"
+  ]
+}

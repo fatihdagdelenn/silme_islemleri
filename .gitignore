@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Log dosyaları
+*.log
+
+# Yerel yapılandırma (örnek dosya hariç)
+config.json
+!ornek_config.json
+
+# İşletim sistemi
+.DS_Store
+Thumbs.db
